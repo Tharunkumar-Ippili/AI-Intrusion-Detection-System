@@ -30,3 +30,19 @@ IDS_Project/ ├── train_model.py
 # Streamlit web application ├── README.md            
 # Project documentation ├── .gitignore           
 # Ignore unnecessary files
+---
+
+## ⚙️ How It Works
+1. Load and preprocess network traffic data  
+2. Train ML model to classify traffic  
+3. Save trained model (`model.pkl`)  
+4. Deploy model using Streamlit UI  
+5. User inputs network data → system predicts attack or normal  
+
+---
+
+## ▶️ How to Run
+
+### Step 1: Train the model
+```bash
+python train_model.py
