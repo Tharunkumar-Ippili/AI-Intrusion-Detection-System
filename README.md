@@ -46,3 +46,8 @@ IDS_Project/ ├── train_model.py
 ### Step 1: Train the model
 ```bash
 python train_model.py
+---
+
+### Step 2: Launch the application
+```bash
+python -m streamlit run app.py
