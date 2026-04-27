@@ -56,11 +56,19 @@ python -m streamlit run app.py
 http://localhost:8501
 ```
 ---
-##📊 Sample Input
+## 📊 Sample Input
 - Duration: 10
 - Source Bytes: 500
 - Destination Bytes: 1000
 - Protocol: tcp
 - Service: http
 - Flag: SF
+---
+## 📈 Output
+- ✅ Normal Traffic
+- 🚨 Attack Detected
+---
+## 📸 Screenshots
+<img width="1001" height="848" alt="Screenshot 2026-04-27 154403" src="https://github.com/user-attachments/assets/1fca68be-a4c5-4d8e-8292-8b37fb76d31a" />
+
 ---
