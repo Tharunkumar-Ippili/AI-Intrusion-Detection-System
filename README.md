@@ -43,11 +43,12 @@ IDS_Project/ ├── train_model.py
 
 ## ▶️ How to Run
 
-### Step 1: Train the model
 ```bash
+# Step 1: Train the model
 python train_model.py
----
 
-### Step 2: Launch the application
-```bash
+# Step 2: Launch the application
 python -m streamlit run app.py
+
+# Step 3: Open in browser
+http://localhost:8501
