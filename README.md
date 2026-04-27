@@ -72,3 +72,19 @@ http://localhost:8501
 <img width="1001" height="848" alt="Screenshot 2026-04-27 154403" src="https://github.com/user-attachments/assets/1fca68be-a4c5-4d8e-8292-8b37fb76d31a" />
 
 ---
+
+## 🎯 Use Cases
+- Network security monitoring
+- SOC (Security Operations Center) analysis
+- Cyber attack detection and prevention
+- Educational demonstration of ML in cybersecurity
+---
+## ⚠️ Limitations
+- Uses simplified input features
+- Accuracy depends on dataset
+---
+## 🔮 Future Improvements
+- Real-time packet capture integration
+- Advanced dashboard UI
+- Deep Learning models
+- Cloud deployment
