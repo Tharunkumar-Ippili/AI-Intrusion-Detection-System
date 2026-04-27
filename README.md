@@ -57,10 +57,10 @@ http://localhost:8501
 ```
 ---
 ##📊 Sample Input
--Duration: 10
--Source Bytes: 500
--Destination Bytes: 1000
--Protocol: tcp
--Service: http
--Flag: SF
+- Duration: 10
+- Source Bytes: 500
+- Destination Bytes: 1000
+- Protocol: tcp
+- Service: http
+- Flag: SF
 ---
