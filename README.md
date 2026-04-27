@@ -54,3 +54,12 @@ python -m streamlit run app.py
 ### Step 3: Open in browser
 ```bash
 http://localhost:8501
+```
+---
+📊 Sample Input
+Duration: 10
+Source Bytes: 500
+Destination Bytes: 1000
+Protocol: tcp
+Service: http
+Flag: SF
