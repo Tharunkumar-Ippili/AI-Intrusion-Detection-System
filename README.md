@@ -25,4 +25,8 @@ It leverages supervised learning techniques to classify network behavior as **no
 ---
 
 ## 📂 Project Structure
-IDS_Project/ ├── train_model.py       # Model training script ├── app.py               # Streamlit web application ├── README.md            # Project documentation ├── .gitignore           # Ignore unnecessary files
+IDS_Project/ ├── train_model.py      
+# Model training script ├── app.py               
+# Streamlit web application ├── README.md            
+# Project documentation ├── .gitignore           
+# Ignore unnecessary files
