@@ -56,10 +56,11 @@ python -m streamlit run app.py
 http://localhost:8501
 ```
 ---
-📊 Sample Input
-Duration: 10
-Source Bytes: 500
-Destination Bytes: 1000
-Protocol: tcp
-Service: http
-Flag: SF
+##📊 Sample Input
+-Duration: 10
+-Source Bytes: 500
+-Destination Bytes: 1000
+-Protocol: tcp
+-Service: http
+-Flag: SF
+---
